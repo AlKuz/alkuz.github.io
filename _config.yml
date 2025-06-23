@@ -16,7 +16,7 @@
 title: Aleksandr Kuznetsov Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Aleksandr Kuznetsov Portfolio
+  Aleksandr Kuznetsov
 twitter_username: username
 github_username: AlKuz
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Aleksandr Kuznetsov"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Scientist and Machine Learning Engineer with a more than 10 years of experience"
+  bio    : "📍 Barcelona <br>🧠 10 years in ML <br>☁️ AWS & GCP <br>🤖 NLP / LLM / MLEngineering / MLOps / CV"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
