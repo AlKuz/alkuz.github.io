@@ -1,0 +1,7 @@
+@import "_sass/minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "_sass/minimal-mistakes";
+
+body {
+  font-size: 14px;
+  line-height: 1.6;
+}
