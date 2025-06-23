@@ -16,10 +16,6 @@ title: "Experience"
 
 🕓 {{ exp.employment_start }} - {{ exp.employment_end }}
 
-🔧 {% for skill in exp.skills %}
-{{ skill }}{% unless forloop.last %} <span style="color: #999;">•</span>{% endunless %}
-{% endfor %}
-
 {% for desc in exp.description %}
 - {{ desc }}
 {% endfor %}
