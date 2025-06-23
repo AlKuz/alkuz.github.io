@@ -5,8 +5,8 @@ title: "Experience"
 
 {% for exp in site.data.experience %}
 ## **{{ exp.title }}** 
-[{{ exp.company.name }}]({{ exp.company.url }}) - {{ exp.employment.type }}<br>
-{{ exp.employment.start }} - {{ exp.employment.end }} | {{ exp.company.location }} ({{ exp.employment.location }})<br>
+[{{ exp.company_name }}]({{ exp.company_url }}) - {{ exp.employment_type }}<br>
+{{ exp.employment_start }} - {{ exp.employment_end }} | {{ exp.company_location }} ({{ exp.employment_location }})<br>
 {% for desc in exp.description %}
 - {{ desc }}
 {% endfor %}
