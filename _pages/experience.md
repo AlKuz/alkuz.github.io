@@ -7,10 +7,10 @@ title: "Experience"
 ## **{{ exp.title }}** 
 
 🏢 {% if exp.company_url != "null" %}
-[{{ exp.company_name }}]({{ exp.company_url }})
+[{{ exp.company_name }}]({{ exp.company_url }}) - {{ exp.employment_type }}
 {% else %}
-{{ exp.company_name }}
-{% endif %} - {{ exp.employment_type }}
+{{ exp.company_name }} - {{ exp.employment_type }}
+{% endif %}
 
 📍 {{ exp.company_location }} - {{ exp.employment_location }}
 
