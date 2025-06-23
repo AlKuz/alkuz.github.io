@@ -2,7 +2,6 @@
   company_name: BioAge Labs
   company_location: Emeryville, California, United States
   company_url: https://bioagelabs.com/
-  employment:
   employment_start: 01 Jan 2025
   employment_end: Present
   employment_type: Contract
@@ -15,10 +14,240 @@
     - Built a classic NLP pipeline (scikit-learn + TF-IDF + PubMedBERT tokenizer) to filter relevant publications by title and abstract
     - Established Hugging Face Hub repositories for models and datasets at the organization level to standardize collaboration and versioning
   skills:
-    - Python
-    - Machine Learning
-    - Natural Language Processing (NLP)
-    - Large Language Models (LLMs)
+    - Machine learning
     - Google Cloud Platform (GCP)
+    - Natural Language Processing (NLP)
     - Docker
-    - ML Engineering
+    - Large Language Models (LLM)
+    - Cloud-Native Architecture
+    - Software Architecture
+    - PostgreSQL
+    - Team Leadership
+    - Leadership
+    - Data Engineering
+    - Team Management
+- title: Senior Machine Learning Engineer
+  company_name: Ooma, Inc.
+  company_location: Sunnyvale, California, United States
+  company_url: https://www.ooma.com/
+  employment_start: Jun 2024
+  employment_end: April 2025
+  employment_type: Contract
+  employment_location: Remote
+  description:
+    - Architected a custom RAG-based conversational AI system tailored for dialogue-based search and retrieval
+    - Built a hybrid search engine on PostgreSQL with BM25, dense embeddings (dragon-multiturn-context-embedding), and ColBERT reranking - optimized for multi-user access via partitioning
+    - Developed API services with FastAPI, including OpenAI-compatible inference endpoints for seamless integration
+    - Used Infinity Inference Server for efficient LLM inference and deployed the containerized solution to Oracle Cloud
+    - Focused on reducing hallucinations and improving retrieval accuracy through custom evaluation metrics
+  skills:
+    - Large Language Models (LLM)
+    - Docker
+    - Python
+    - PostgreSQL
+    - Retrieval-Augmented Generation (RAG)
+    - Natural Language Processing (NLP)
+    - Chatbot Development
+- title: Senior Data Scientist
+  company_name: EPAM Systems
+  company_location: İzmir, Turkey
+  company_url: https://www.epam.com/
+  employment_start: Jun 2022
+  employment_end: May 2024
+  employment_type: Full-time
+  employment_location: Remote
+  description:
+    - Designed serverless architecture on AWS (SageMaker, S3, Lambda, APIGateway, RDS, Step Functions etc.) to integrate new Machine Learning and Data Processing solutions into the existing infrastructure
+    - Developed serverless Python backend on AWS for a question-answering chatbot specialized in medical document analysis
+    - Established and managed a data labeling pipeline using AWS SageMaker GroundTruth to improve question-answering model quality
+    - Successfully deployed machine learning models into the AWS cloud using Docker and AWS SageMaker, ensuring high availability, scalability, and cost-efficiency
+    - Collaborated with clients to define project milestones and development plans, ensuring a clear and aligned project direction
+    - Mentored and supervised junior specialists, accelerating the development process and enhancing their technical skills, contributing to the team's overall productivity
+  skills:
+    - Amazon Web Services (AWS)
+    - Natural Language Processing (NLP)
+    - TensorFlow
+    - PostgreSQL
+    - Machine learning
+    - Terraform
+    - Python
+    - Data Science
+    - MLOps
+    - Cloud-Native Architecture
+    - PyTorch
+    - Docker
+    - Deep Learning
+- title: Resource Manager
+  company_name: EPAM Systems
+  company_location: İzmir, Turkey
+  company_url: https://www.epam.com/
+  employment_start: Feb 2022
+  employment_end: May 2024
+  employment_type: Part-time
+  employment_location: Remote
+  description:
+    - Collaborated with my subordinates to develop and implement individualized personal development plans
+    - Guided and supported subordinates in setting and achieving their career goals
+    - Proactively gathered and meticulously analyzed feedback from subordinate-led projects, allowing for the identification of strengths and areas for improvement
+    - Customized my mentoring approach to each subordinate's unique needs and aspirations, fostering an environment where professional growth and career progression were the norm
+  skills:
+    - Team Leadership
+    - Mentoring
+    - Coaching
+- title: Technical Interviewer
+  company_name: EPAM Systems
+  company_location: Samara, Russia -> İzmir, Turkey
+  company_url: https://www.epam.com/
+  employment_start: June 2020
+  employment_end: April 2023
+  employment_type: Part-time
+  employment_location: Remote
+  description:
+    - Successfully completed the Technical Interview certification within the company
+    - Participated in and conducted more than 180 technical Data Science interviews
+    - Demonstrated proficiency in key data science skills during interviews, including data analysis, statistical modeling, machine learning, and data visualization, to assess the qualifications of candidates accurately
+  skills:
+    - Technical interview
+    - Machine learning
+    - Data Science
+- title: Middle Data Scientist
+  company_name: EPAM Systems
+  company_location: Samara, Russia
+  company_url: https://www.epam.com/
+  employment_start: December 2019
+  employment_end: June 2022
+  employment_type: Full-time
+  employment_location: Remote
+  description:
+    - Created a serverless Python backend on AWS to automate email message classification and sorting within the Outlook mailbox for the support team
+    - Designed and implemented a custom data pipeline using Python (Pandas, Multiprocessing) for validating datasets related to fraudulent transactions, which helped to find inconsistent data and improved the solution quality
+    - Trained a model to enhance the image quality of seismological data during the presale phase, a critical contribution that paved the way for the successful launch of the project
+    - Established image data labeling pipelines using AWS SageMaker GroundTruth through a collaborative effort between a crowdsourced labeling team for initial filtering and an internal customer team for advanced labeling. This streamlined process accelerated model experimentation and development
+    - Designed and trained classification and segmentation models using the Keras framework. Leveraged a customized architecture combining Unet with MobileNet for segmentation and a dedicated network for classification, enabling precise detection and localization of infrastructure defects in video content
+    - Developed baseline models using AWS Rekognition AutoML for object detection in video streams. Utilized Python with the boto3 tool for training and inference orchestration and AWS S3 to store both raw data and manifest files
+    - Led and mentored junior developers and Data Scientists, providing guidance, task decomposition, and code review to foster their professional growth and enhance project efficiency
+    - Actively participated in company webinars, sharing knowledge and insights, and contributing to the professional development of colleagues and team members
+  skills:
+    - Amazon Web Services (AWS)
+    - Computer vision
+    - Natural Language Processing (NLP)
+    - TensorFlow
+    - PostgreSQL
+    - Machine learning
+    - Keras
+    - Python
+    - Data Science
+    - Cloud-Native Architecture
+    - PyTorch
+    - Docker
+    - Deep Learning
+- title: Machine Learning Developer
+  company_name: Altarix
+  company_location: Samara, Russia
+  company_url: null
+  employment_start: September 2018
+  employment_end: December 2019
+  employment_type: Full-time
+  employment_location: On-site
+  description:
+    - Initiated my journey in Machine Learning backend development with Python, Docker, Tensorflow, Keras, Flask, and OpenCV. Rapidly assumed a leadership role in the project's ML-related backend, overseeing critical development tasks for seamless operation
+    - Designed and implemented a robust real-time object tracking system on video streams using OpenCV, enhancing project capabilities and delivering an improved user experience
+    - Significantly improved license plate recognition accuracy on vehicles from 40% to 80%. Achieved this using Keras and a custom model architecture based on CNN and GRU layers with the CTC loss function, greatly enhancing system performance and reliability
+    - Automated machine learning model deployment into production using Docker and Tensorflow Serving, streamlining development and deployment processes for increased efficiency and reduced operational overhead
+    - Transitioned a backend segment to a microservices architecture using Docker Compose, improving system modularity and automating model deployment for rapid and efficient updates
+    - Facilitated onboarding for new team members through task decomposition, ensuring a smooth integration into the development workflow and a clear understanding of project objectives
+  skills:
+    - Computer vision
+    - Docker Compose
+    - Back-End Web Development
+    - MLFlow
+    - TensorFlow
+    - Microservices
+    - Machine learning
+    - Keras
+    - Python
+    - DVC
+    - Tensorflow Serving
+    - Data Science
+    - Docker
+    - Deep Learning
+- title: Research Lab Engineer
+  company_name: Samara State Aerospace University
+  company_location: Samara, Russia
+  company_url: https://ssau.ru/english
+  employment_start: September 2016
+  employment_end: December 2017
+  employment_type: Full-time
+  employment_location: On-site
+  description:
+    - Designed and implemented multiple engine models using neural networks in MATLAB, significantly expediting the development of nonlinear control systems
+    - Developed control systems utilizing classical methods and fuzzy logic to improve the precision and reliability of engine control
+    - Conducted extensive research on linear and non-linear control systems, exploring innovative approaches and methodologies to address complex control challenges in the field of aircraft engines
+  skills:
+    - Control Systems
+    - Matlab
+    - Scientific Writing
+    - Dynamic Systems Modeling
+    - Engineering
+    - Machine learning
+    - Simulink
+    - Python
+    - Public Speaking
+    - Scientific Research
+    - Deep Learning
+- title: Laboratory Engineer at the Control Systems Department
+  company_name: Samara State Aerospace University
+  company_location: Samara, Russia
+  company_url: https://ssau.ru/english
+  employment_start: February 2015
+  employment_end: August 2016
+  employment_type: Full-time
+  employment_location: On-site
+  description:
+    - Utilized MATLAB Simulink to develop comprehensive mathematical models for multiple aircraft engines. These models served as critical tools for researching engine stability, dynamics, and the design of control systems
+    - Engineered an engine control system with a PID controller written in C language, executed on a microcontroller. Conducted dynamic research to fine-tune the PID controller for optimal engine performance
+  skills:
+    - Control Systems
+    - Matlab
+    - Dynamic Systems Modeling
+    - Engineering
+    - Machine learning
+    - Simulink
+    - Public Speaking
+    - Scientific Research
+- title: Laboratory Assistant at the Control Systems Department
+  company_name: Samara State Aerospace University
+  company_location: Samara, Russia
+  company_url: https://ssau.ru/english
+  employment_start: September 2013
+  employment_end: February 2015
+  employment_type: Part-time
+  employment_location: On-site
+  description:
+    - Developed a comprehensive mathematical model of a jet engine using MATLAB Simulink. This model played a role in simulating and understanding the engine's behavior and performance
+    - Conducted extensive research on the engine's mathematical model and control system, utilizing MATLAB tools to enhance control system dynamics
+  skills:
+    - Control Systems
+    - Matlab
+    - Scientific Activity
+    - Scientific Writing
+    - Dynamic Systems Modeling
+    - Engineering
+    - Simulink
+    - Public Speaking
+- title: Laboratory Assistant at the Strength of Materials Department
+  company_name: Samara State Aerospace University
+  company_location: Samara, Russia
+  company_url: https://ssau.ru/english
+  employment_start: January 2010
+  employment_end: June 2012
+  employment_type: Part-time
+  employment_location: On-site
+  description:
+    - Conducted extensive tests on the fatigue strength of metal samples for the aviation industry, contributing to the development of materials with enhanced durability and safety
+    - Authored articles for scientific journals and actively participated in conferences, presenting research findings and contributing to the advancement of knowledge in the field
+  skills:
+    - Scientific Activity
+    - Scientific Writing
+    - Engineering
+    - Public Speaking
