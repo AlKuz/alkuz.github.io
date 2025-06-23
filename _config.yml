@@ -101,8 +101,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "main"
 
 category_archive:
   type: liquid

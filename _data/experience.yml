@@ -1,0 +1,25 @@
+- title: Machine Learning Tech Lead
+  company:
+    - name: BioAge Labs
+      location: Emeryville, California, United States
+      url: https://bioagelabs.com/
+  employment:
+    - start: 01 Jan 2025
+      end: Present
+      type: Contract
+      location: Remote
+  description:
+    - Led a cross-functional ML team (ML engineer, data engineer, analyst) working on biomedical and pharmacological research papers
+    - Designed a scalable, cloud-native pipeline (GCP Cloud Functions) for extracting experimental results from scientific publications
+    - Defined technical strategy and architecture for multi-stage information extraction workflows, optimizing for cost and performance
+    - Developed baselines for parsing papers into structured JSON and extracting complex biomedical insights
+    - Built a classic NLP pipeline (scikit-learn + TF-IDF + PubMedBERT tokenizer) to filter relevant publications by title and abstract
+    - Established Hugging Face Hub repositories for models and datasets at the organization level to standardize collaboration and versioning
+  skills:
+    - Python
+    - Machine Learning
+    - Natural Language Processing (NLP)
+    - Large Language Models (LLMs)
+    - Google Cloud Platform (GCP)
+    - Docker
+    - ML Engineering
