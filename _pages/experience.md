@@ -10,8 +10,7 @@ title: "Experience"
 [{{ exp.company_name }}]({{ exp.company_url }})
 {% else %}
 {{ exp.company_name }}
-{% endif %}
-[{{ exp.company_name }}]({{ exp.company_url }}) - {{ exp.employment_type }}
+{% endif %} - {{ exp.employment_type }}
 
 📍 {{ exp.company_location }} - {{ exp.employment_location }}
 
